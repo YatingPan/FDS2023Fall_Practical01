@@ -1,5 +1,4 @@
-# FDS2023Fall_Practical01
-# Deadline: 05/11/2023
+# FDS2023Fall_Practical01 (Deadline: 05/11/2023)
 
 1. Implementation of Linear Regression (Ridge, Lasso)
 Tasks
